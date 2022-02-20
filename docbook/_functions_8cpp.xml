@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="__functions_8cpp" xml:lang="en-US">
+<title>Functions.cpp File Reference</title>
+<indexterm><primary>Functions.cpp</primary></indexterm>
+<programlisting linenumbering="unnumbered">#include &lt;math.h&gt;
+</programlisting><simplesect>
+    <title>Functions    </title>
+        <itemizedlist>
+            <listitem><para>int <link linkend="__functions_8cpp_1a2c5e2494e16a2c329979f7b1254c092b">FindSmallest</link> (int *&amp;arr, int lenght, int &amp;ind)</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Function Documentation</title>
+<anchor xml:id="__functions_8cpp_1a2c5e2494e16a2c329979f7b1254c092b"/><section>
+    <title>FindSmallest()</title>
+<indexterm><primary>FindSmallest</primary><secondary>Functions.cpp</secondary></indexterm>
+<indexterm><primary>Functions.cpp</primary><secondary>FindSmallest</secondary></indexterm>
+<para><computeroutput>int FindSmallest (int *&amp; arr, int lenght, int &amp; ind)</computeroutput></para>
+<para>Finds smallest number and it&apos;s id in given array 
+                <formalpara>
+                    <title>
+Parameters</title>
+                    <para>
+                    <table frame="all">
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+<entry>arr</entry><entry>
+<para>Array to search in </para>
+</entry>
+                            </row>
+                            <row>
+<entry>lenght</entry><entry>
+<para>Array lenght </para>
+</entry>
+                            </row>
+                            <row>
+<entry>ind</entry><entry>
+<para>Index of the smallest item in the array </para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                    </para>
+                </formalpara>
+                </para>
+</section>
+</section>
+</section>

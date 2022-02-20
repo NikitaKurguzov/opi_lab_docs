@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="__functions_8h" xml:lang="en-US">
+<title>Functions.h File Reference</title>
+<indexterm><primary>Functions.h</primary></indexterm>
+<simplesect>
+    <title>Functions    </title>
+        <itemizedlist>
+            <listitem><para>int <link linkend="__functions_8h_1a2c5e2494e16a2c329979f7b1254c092b">FindSmallest</link> (int *&amp;arr, int lenght, int &amp;ind)</para>
+</listitem>
+            <listitem><para>int <link linkend="__functions_8h_1a7e6d63fd0a8d4e103e1ddd8be8b29096">do_this</link> ()</para>
+</listitem>
+            <listitem><para>int <link linkend="__functions_8h_1a8a6d8b43381b688b61365ed1713561be">do_that</link> ()</para>
+</listitem>
+            <listitem><para>int <link linkend="__functions_8h_1a915f41aca404e22e569ecea889e1e035">or_that</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Function Documentation</title>
+<anchor xml:id="__functions_8h_1a8a6d8b43381b688b61365ed1713561be"/><section>
+    <title>do_that()</title>
+<indexterm><primary>do_that</primary><secondary>Functions.h</secondary></indexterm>
+<indexterm><primary>Functions.h</primary><secondary>do_that</secondary></indexterm>
+<para><computeroutput>int do_that ( )</computeroutput></para>
+<para>do that </para>
+</section>
+<anchor xml:id="__functions_8h_1a7e6d63fd0a8d4e103e1ddd8be8b29096"/><section>
+    <title>do_this()</title>
+<indexterm><primary>do_this</primary><secondary>Functions.h</secondary></indexterm>
+<indexterm><primary>Functions.h</primary><secondary>do_this</secondary></indexterm>
+<para><computeroutput>int do_this ( )</computeroutput></para>
+<para>Does this </para>
+</section>
+<anchor xml:id="__functions_8h_1a2c5e2494e16a2c329979f7b1254c092b"/><section>
+    <title>FindSmallest()</title>
+<indexterm><primary>FindSmallest</primary><secondary>Functions.h</secondary></indexterm>
+<indexterm><primary>Functions.h</primary><secondary>FindSmallest</secondary></indexterm>
+<para><computeroutput>int FindSmallest (int *&amp; arr, int lenght, int &amp; ind)</computeroutput></para>
+<para>Finds smallest number and it&apos;s id in given array 
+                <formalpara>
+                    <title>
+Parameters</title>
+                    <para>
+                    <table frame="all">
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+<entry>arr</entry><entry>
+<para>Array to search in </para>
+</entry>
+                            </row>
+                            <row>
+<entry>lenght</entry><entry>
+<para>Array lenght </para>
+</entry>
+                            </row>
+                            <row>
+<entry>ind</entry><entry>
+<para>Index of the smallest item in the array </para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                    </para>
+                </formalpara>
+                </para>
+</section>
+<anchor xml:id="__functions_8h_1a915f41aca404e22e569ecea889e1e035"/><section>
+    <title>or_that()</title>
+<indexterm><primary>or_that</primary><secondary>Functions.h</secondary></indexterm>
+<indexterm><primary>Functions.h</primary><secondary>or_that</secondary></indexterm>
+<para><computeroutput>int or_that ( )</computeroutput></para>
+<para>maybe do that </para>
+</section>
+</section>
+</section>

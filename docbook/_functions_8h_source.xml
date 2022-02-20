@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="__functions_8h_source" xml:lang="en-US">
+<title>Functions.h</title>
+Go to the documentation of this file.<programlisting linenumbering="unnumbered">1 <emphasis role="preprocessor">#pragma&#32;once</emphasis>
+2 
+9 <emphasis role="keywordtype">int</emphasis>&#32;<link linkend="__functions_8h_1a2c5e2494e16a2c329979f7b1254c092b">FindSmallest</link>(<emphasis role="keywordtype">int</emphasis>*&amp;&#32;arr,&#32;<emphasis role="keywordtype">int</emphasis>&#32;lenght,&#32;<emphasis role="keywordtype">int</emphasis>&amp;&#32;ind);
+10 
+14 <emphasis role="keywordtype">int</emphasis>&#32;<link linkend="__functions_8h_1a7e6d63fd0a8d4e103e1ddd8be8b29096">do_this</link>(){<emphasis role="keywordflow">return</emphasis>&#32;0;}
+15 
+19 <emphasis role="keywordtype">int</emphasis>&#32;<link linkend="__functions_8h_1a8a6d8b43381b688b61365ed1713561be">do_that</link>(){<emphasis role="keywordflow">return</emphasis>&#32;1;}
+20 
+24 <emphasis role="keywordtype">int</emphasis>&#32;<link linkend="__functions_8h_1a915f41aca404e22e569ecea889e1e035">or_that</link>(){<emphasis role="keywordflow">return</emphasis>&#32;2;}
+</programlisting></section>
