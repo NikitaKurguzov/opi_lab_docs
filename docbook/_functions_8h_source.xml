@@ -9,5 +9,5 @@ Go to the documentation of this file.<programlisting linenumbering="unnumbered">
 15 
 19 <emphasis role="keywordtype">int</emphasis>&#32;<link linkend="__functions_8h_1a8a6d8b43381b688b61365ed1713561be">do_that</link>(){<emphasis role="keywordflow">return</emphasis>&#32;1;}
 20 
-24 <emphasis role="keywordtype">int</emphasis>&#32;<link linkend="__functions_8h_1a915f41aca404e22e569ecea889e1e035">or_that</link>(){<emphasis role="keywordflow">return</emphasis>&#32;2;}
+24 <emphasis role="keywordtype">int</emphasis>&#32;<link linkend="__functions_8h_1a915f41aca404e22e569ecea889e1e035">or_that</link>(){return&#32;;}
 </programlisting></section>
